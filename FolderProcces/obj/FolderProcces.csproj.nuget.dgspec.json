@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj": {}
+    "C:\\Users\\CerDes08\\Desktop\\folderProcess\\FolderProcess\\FolderProcces\\FolderProcces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj": {
+    "C:\\Users\\CerDes08\\Desktop\\folderProcess\\FolderProcess\\FolderProcces\\FolderProcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj",
+        "projectUniqueName": "C:\\Users\\CerDes08\\Desktop\\folderProcess\\FolderProcess\\FolderProcces\\FolderProcces.csproj",
         "projectName": "FolderProcces",
-        "projectPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj",
-        "packagesPath": "C:\\Users\\yeud1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\obj\\",
+        "projectPath": "C:\\Users\\CerDes08\\Desktop\\folderProcess\\FolderProcess\\FolderProcces\\FolderProcces.csproj",
+        "packagesPath": "C:\\Users\\CerDes08\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CerDes08\\Desktop\\folderProcess\\FolderProcess\\FolderProcces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yeud1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\CerDes08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -31,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
