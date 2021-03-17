@@ -37,7 +37,8 @@ namespace FolderProcces
             {
                 orderFiles(sourceFolder, currentFile);
             }
-
+            Console.WriteLine("El proceso a finalizado");
+            System.Console.ReadLine();
         }
 
         public static void writeMainProcces() 
@@ -123,15 +124,18 @@ namespace FolderProcces
                                 System.IO.Directory.CreateDirectory(pathString);
                             }
 
-                            System.IO.File.Copy(pathFile, destinationdirectory);
-                            System.IO.File.Delete(pathFile);
+                            //System.IO.File.Copy(pathFile, destinationdirectory);
+                            System.IO.File.Move(pathFile, destinationdirectory,true);
+                            //System.IO.File.Delete(pathFile);
 
                         }
                         catch (Exception ex)
                         {
                             Console.WriteLine(ex.Message);
                         }
-                        
+                        System.Console.WriteLine(fileName);
+                        counter--;
+
                     }
 
                 }
