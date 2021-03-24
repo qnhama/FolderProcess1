@@ -11,3 +11,16 @@ C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcces\obj\Debug\ne
 C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.pdb
 C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.genruntimeconfig.cache
 C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.csprojAssemblyReference.cache
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.exe
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.deps.json
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.runtimeconfig.json
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.runtimeconfig.dev.json
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.dll
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\bin\Debug\netcoreapp3.1\FolderProcces.pdb
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.csprojAssemblyReference.cache
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.AssemblyInfoInputs.cache
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.AssemblyInfo.cs
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.csproj.CoreCompileInputs.cache
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.dll
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.pdb
+C:\Users\yeud1\Documents\WorkSpaces\Org\FolderProcces\FolderProcess\FolderProcces\obj\Debug\netcoreapp3.1\FolderProcces.genruntimeconfig.cache

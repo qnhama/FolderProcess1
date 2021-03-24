@@ -101,7 +101,15 @@ namespace FolderProcces
             file.Close();
             System.Console.WriteLine("There were {0} lines.", counter);
 
-            Console.WriteLine("Acomodando Archvos de Org en subcarpetas");
+            //Crea carpeta con nombre del archivo
+            var newDestination = System.IO.Path.Combine(sourceFolder, Path.ChangeExtension(pathFiletxt, null));
+
+            if (!Directory.Exists(sourceFolder))
+            {
+                System.IO.Directory.CreateDirectory(sourceFolder);
+            }
+
+            Console.WriteLine(string.Format( "Acomodando Archvos de {0} en subcarpetas", pathFiletxt));
 
             foreach (var phFolder in dirRead)
             {
@@ -111,7 +119,7 @@ namespace FolderProcces
                 {
                     foreach (var fileMove in files)
                     {
-                        string pathString = System.IO.Path.Combine(sourceFolder, phFolder);
+                        string pathString = System.IO.Path.Combine(newDestination, phFolder);
                         string pathFile = string.Format(@"{0}", fileMove);
                         string fileName = Path.GetFileName(fileMove);
                         string destinationdirectory = System.IO.Path.Combine(string.Format(@"{0}", pathString), fileName);

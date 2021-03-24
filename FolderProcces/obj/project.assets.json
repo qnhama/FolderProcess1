@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj",
+      "projectUniqueName": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcess\\FolderProcces\\FolderProcces.csproj",
       "projectName": "FolderProcces",
-      "projectPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\FolderProcces.csproj",
+      "projectPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcess\\FolderProcces\\FolderProcces.csproj",
       "packagesPath": "C:\\Users\\yeud1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcces\\obj\\",
+      "outputPath": "C:\\Users\\yeud1\\Documents\\WorkSpaces\\Org\\FolderProcces\\FolderProcess\\FolderProcces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
